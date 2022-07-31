@@ -1,5 +1,5 @@
 # rocket5-react-blueprint
-A simple blueprint of a rust rocket.rs 5.x based backend with a react (cra) frontend
+A simple blueprint of a rust rocket.rs 5.x based backend with a react (cra) frontend using the Blockfrost API to interact with the Cardano ecosystem.
 
 ## Prerequirements
 
