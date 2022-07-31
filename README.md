@@ -5,7 +5,7 @@ A simple blueprint of a rust rocket.rs 5.x based backend with a react (cra) fron
 
 - [Install Rust](https://www.rust-lang.org/tools/install) on your system
 - [Setup npm & node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-- Create a Project at [https://blockfrost.io/](https://blockfrost.io/) using the free or any other plan
+- Create a Project on [https://blockfrost.io/](https://blockfrost.io/) using the free or any other plan
 
 ## Getting Started
 
